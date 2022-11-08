@@ -1,0 +1,31 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+div {
+  margin: 0;
+  padding: 0;
+}
+ol {
+  list-style: square;
+  list-style-position: outside;
+}
+.heading-block {
+  text-align: center;
+  margin: 1rem 0 2rem;
+  color: rgba(27, 27, 27, 0.781);
+}
+.heading-text {
+  font-weight: 600;
+  font-size: 2rem;
+}
+.best-block {
+  text-align: left;
+  color: rgb(121, 121, 121);
+}
+.best-text {
+  font-size: 1rem;
+}
